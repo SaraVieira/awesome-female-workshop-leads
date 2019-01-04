@@ -70,9 +70,9 @@ https://twitter.com/thegreengreek
 Topics: Serverless, Angular\
 https://twitter.com/simona_cotin
 
-<img src="https://twitter.com/peggyrayzis/profile\_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/peggyrayzis/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Peggy Rayzis** \
+**Peggy Rayzis**
 
 Topics: GraphQL\
 https://twitter.com/peggyrayzis
