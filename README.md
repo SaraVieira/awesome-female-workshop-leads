@@ -47,7 +47,6 @@ https://twitter.com/marcysutton
 **Sandrina Pereira**
 
 Topics: Testing React with Jest + Enzyme\
-Languages: Portuguese, English\
 https://twitter.com/a_sandrina_p
 
 <img src="https://twitter.com/sarah_edo/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
