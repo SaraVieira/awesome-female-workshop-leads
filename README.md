@@ -83,6 +83,13 @@ https://twitter.com/peggyrayzis
 Topics: Web Animations\
 https://twitter.com/vlh
 
+<img src="https://twitter.com/taravancil/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Tara Vancil**
+\
+Topics: P2P, Web\
+https://twitter.com/taravancil
+
 # License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
