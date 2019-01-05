@@ -6,6 +6,13 @@ Please add to the list and help make the community better connected and richer.
 
 ## Women
 
+<img src="https://twitter.com/chibichibibr/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Amanda Cavallaro**
+\
+Topics: React, Google Assistance, DialogFlow\
+https://twitter.com/chibichibibr
+
 <img src="https://twitter.com/MellowDipti/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Dipti Gandhi**
