@@ -10,7 +10,7 @@ Please add to the list and help make the community better connected and richer.
 
 **Amanda Cavallaro**
 \
-Topics: React, Google Assistance, DialogFlow\
+Topics: React, Actions on Google, DialogFlow\
 https://twitter.com/chibichibibr
 
 <img src="https://twitter.com/MellowDipti/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
